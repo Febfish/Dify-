@@ -1,0 +1,202 @@
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7000
+ * Running on http://172.26.0.2:7000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 127-645-166
+172.26.0.1 - - [17/Sep/2025 10:54:04] "POST /get_doc HTTP/1.1" 200 -
+172.26.0.1 - - [17/Sep/2025 10:54:18] "POST /get_doc HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7000
+ * Running on http://172.26.0.2:7000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 108-378-245
+172.26.0.1 - - [17/Sep/2025 11:00:05] "POST /get_doc HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7000
+ * Running on http://172.26.0.2:7000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 431-785-764
+172.26.0.1 - - [17/Sep/2025 11:30:31] "POST /get_doc HTTP/1.1" 200 -
+172.26.0.1 - - [17/Sep/2025 11:30:35] "POST /get_doc HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7000
+ * Running on http://172.26.0.2:7000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 111-223-110
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7000
+ * Running on http://172.26.0.2:7000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 131-360-102
+195.184.76.29 - - [18/Sep/2025 11:35:12] code 400, message Bad request version ('À#À¬À®À+À')
+195.184.76.29 - - [18/Sep/2025 11:35:12] "[35m[1m\x16\x03\x03\x01¨\x01\x00\x01¤\x03\x03òl\x0fà!\x1d®öÀ£\x16»!\x04ÎIñ¼Ç|?À×\x1e±¹-\x13èxÁ¯ /,M\x01\x90\x94ó\x15/\x8ddÿk:\x1f?Û\x87î\x86\x1bF\x1c\x83\x8f\x13Â{ ±2c\x00\x8a\x00\x16\x003\x00gÀ\x9eÀ¢\x00\x9e\x009\x00kÀ\x9fÀ£\x00\x9f\x00E\x00¾\x00\x88\x00Ä\x00\x9aÀ\x08À\x09À#À¬À®À+À[0m" HTTPStatus.BAD_REQUEST -
+195.184.76.29 - - [18/Sep/2025 11:35:18] "[33mGET / HTTP/1.1[0m" 404 -
+91.230.168.23 - - [18/Sep/2025 11:50:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+206.168.34.204 - - [18/Sep/2025 11:55:56] "[33mGET / HTTP/1.1[0m" 404 -
+206.168.34.204 - - [18/Sep/2025 11:55:58] code 505, message Invalid HTTP version (2.0)
+206.168.34.204 - - [18/Sep/2025 11:55:58] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+206.168.34.204 - - [18/Sep/2025 11:58:16] code 505, message Invalid HTTP version (2.0)
+206.168.34.204 - - [18/Sep/2025 11:58:16] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+206.168.34.204 - - [18/Sep/2025 11:58:19] "[33mGET /login HTTP/1.1[0m" 404 -
+3.130.96.91 - - [18/Sep/2025 12:04:34] "[33mGET / HTTP/1.1[0m" 404 -
+3.130.96.91 - - [18/Sep/2025 12:06:55] "[33mGET / HTTP/1.1[0m" 404 -
+3.130.96.91 - - [18/Sep/2025 12:08:34] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ð\x1a)\xad©V¶Fà13')
+3.130.96.91 - - [18/Sep/2025 12:08:34] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ð\x1a)­©V¶Fà13\x0d«÷XªFqp\x01\x00\x95\x06Y[0m" HTTPStatus.BAD_REQUEST -
+3.130.96.91 - - [18/Sep/2025 12:10:48] code 400, message Bad request syntax ('SSH-2.0-Go')
+3.130.96.91 - - [18/Sep/2025 12:10:48] "[35m[1mSSH-2.0-Go[0m" HTTPStatus.BAD_REQUEST -
+3.130.96.91 - - [18/Sep/2025 12:12:28] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ÖYW')
+3.130.96.91 - - [18/Sep/2025 12:12:28] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ÖYW\x1cÃ\x91[0m" HTTPStatus.BAD_REQUEST -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7000
+ * Running on http://172.26.0.2:7000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 135-745-469
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7000
+ * Running on http://172.26.0.2:7000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 139-142-196
+172.26.0.1 - - [18/Sep/2025 13:23:53] "POST /get_doc HTTP/1.1" 200 -
+172.26.0.1 - - [18/Sep/2025 13:33:01] "POST /get_doc HTTP/1.1" 200 -
+172.26.0.1 - - [18/Sep/2025 13:50:38] "POST /get_doc HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7000
+ * Running on http://172.26.0.2:7000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 224-366-328
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7000
+ * Running on http://172.26.0.2:7000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 126-184-048
+172.26.0.1 - - [18/Sep/2025 14:19:52] "POST /get_doc HTTP/1.1" 200 -
+172.26.0.1 - - [18/Sep/2025 14:20:40] "POST /get_doc HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7000
+ * Running on http://172.26.0.2:7000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 125-331-335
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7000
+ * Running on http://172.26.0.2:7000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 970-125-294
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7000
+ * Running on http://172.26.0.2:7000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 929-538-582
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7000
+ * Running on http://172.26.0.2:7000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 755-083-135
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7000
+ * Running on http://172.26.0.2:7000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 132-541-929
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7000
+ * Running on http://172.26.0.2:7000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 566-493-845
+172.26.0.1 - - [18/Sep/2025 15:03:19] "POST /get_doc HTTP/1.1" 200 -
+91.196.152.32 - - [18/Sep/2025 16:47:01] code 400, message Bad request version ('À#À¬À®À+À')
+91.196.152.32 - - [18/Sep/2025 16:47:01] "[35m[1m\x16\x03\x03\x01¨\x01\x00\x01¤\x03\x03\x1eí\x11?áª\x8d«jóiìÐµ s\x7fz\x199ºûÿ{­\x11\x91\x8dø\x0cg| ñCfò\x03?\x12²\x08\x0bï7,Úã­]=¸\x18$\x19ßúâùä\x0fMÐ#\x9e\x00\x8a\x00\x16\x003\x00gÀ\x9eÀ¢\x00\x9e\x009\x00kÀ\x9fÀ£\x00\x9f\x00E\x00¾\x00\x88\x00Ä\x00\x9aÀ\x08À\x09À#À¬À®À+À[0m" HTTPStatus.BAD_REQUEST -
+91.196.152.123 - - [18/Sep/2025 16:47:08] "[33mGET / HTTP/1.1[0m" 404 -
+91.196.152.113 - - [18/Sep/2025 16:57:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+64.227.156.10 - - [18/Sep/2025 19:03:01] "[33mGET / HTTP/1.1[0m" 404 -
+64.227.156.10 - - [18/Sep/2025 19:03:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+62.234.23.170 - - [18/Sep/2025 21:31:55] code 400, message Bad HTTP/0.9 request type ('l\x00')
+62.234.23.170 - - [18/Sep/2025 21:31:55] "[35m[1ml\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+62.234.23.170 - - [18/Sep/2025 21:32:06] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+62.234.23.170 - - [18/Sep/2025 21:32:06] "[35m[1m\x80\x00\x00(rþ\x1d\x13\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86 \x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+62.234.23.170 - - [18/Sep/2025 21:32:17] code 400, message Bad HTTP/0.9 request type ('\x00')
+62.234.23.170 - - [18/Sep/2025 21:32:17] "[35m[1m\x00\x1e\x00\x06\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x07version\x04bind\x00\x00\x10\x00\x03[0m" HTTPStatus.BAD_REQUEST -
+62.234.23.170 - - [18/Sep/2025 21:32:35] code 400, message Bad HTTP/0.9 request type ('\x00')
+62.234.23.170 - - [18/Sep/2025 21:32:35] "[35m[1m\x00\x1e\x00\x06\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x07version\x04bind\x00\x00\x10\x00\x03[0m" HTTPStatus.BAD_REQUEST -
+62.234.23.170 - - [18/Sep/2025 21:32:37] "[33mGET / HTTP/1.0[0m" 404 -
+174.138.64.168 - - [18/Sep/2025 21:43:53] "[33mGET / HTTP/1.1[0m" 404 -
+174.138.64.168 - - [18/Sep/2025 21:43:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+62.234.23.170 - - [18/Sep/2025 21:49:00] code 400, message Bad request version ("·o\x7fçu\x06kX87\x8açqÙÌcÇÑ^\x92>\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ")
+62.234.23.170 - - [18/Sep/2025 21:49:00] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03~9]:¼\x96©Lîò³\x8bwh@µa\x84\x16e\\\x8f\x7fÊ¥©4\x85\x8faz\x81 =\x85n\x82zñÊujD ·o\x7fçu\x06kX87\x8açqÙÌcÇÑ^\x92>\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ[0m" HTTPStatus.BAD_REQUEST -
+62.234.23.170 - - [18/Sep/2025 21:49:00] "[33mGET / HTTP/1.1[0m" 404 -
+62.234.23.170 - - [18/Sep/2025 21:49:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+199.45.155.107 - - [18/Sep/2025 22:06:42] code 400, message Bad request version ('À\x14À')
+199.45.155.107 - - [18/Sep/2025 22:06:42] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03ÂÆ\x87\x1c½Â@\x87i\x00{\x82¨\x81\x97ê\x81\x06\x80û\x17\x88=6Ú¹\x9c\x02\x859þð dV,7p$áå\x9fÂÛEð?N+Ñ\x16°´¤!${=öMöû÷ó-\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+199.45.155.107 - - [18/Sep/2025 22:06:47] "[33mGET / HTTP/1.1[0m" 404 -
+20.64.104.120 - - [19/Sep/2025 01:40:46] code 400, message Bad request syntax ('MGLNDD_115.231.236.153_7000')
+20.64.104.120 - - [19/Sep/2025 01:40:46] "[35m[1mMGLNDD_115.231.236.153_7000[0m" HTTPStatus.BAD_REQUEST -
+93.123.109.71 - - [19/Sep/2025 06:50:08] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+93.123.109.71 - - [19/Sep/2025 06:50:08] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+210.16.164.127 - - [19/Sep/2025 11:11:15] "[33mGET / HTTP/1.1[0m" 404 -
+172.26.0.1 - - [19/Sep/2025 12:08:01] "POST /get_doc HTTP/1.1" 200 -
+172.26.0.1 - - [19/Sep/2025 12:17:05] "POST /get_doc HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7000
+ * Running on http://172.26.0.2:7000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 631-697-675
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7000
+ * Running on http://172.26.0.2:7000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 623-117-533
+167.94.138.166 - - [19/Sep/2025 12:57:18] "[33mGET / HTTP/1.1[0m" 404 -
+167.94.138.166 - - [19/Sep/2025 12:57:20] code 505, message Invalid HTTP version (2.0)
+167.94.138.166 - - [19/Sep/2025 12:57:20] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+167.94.138.166 - - [19/Sep/2025 13:00:43] code 505, message Invalid HTTP version (2.0)
+167.94.138.166 - - [19/Sep/2025 13:00:43] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+167.94.138.166 - - [19/Sep/2025 13:00:47] "[33mGET /login HTTP/1.1[0m" 404 -

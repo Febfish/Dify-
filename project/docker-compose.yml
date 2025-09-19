@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  app-services:
+    build: .
+    ports:
+      - "7000:7000"  # md.py 服务
+      - "5000:5000"  # md2docx_server.py 服务
+    volumes:
+      - ./md_files:/app/md_files
+      - ./files:/app/files
+      - ./reference.docx:/app/reference.docx
+      - ./upload_here:/app/upload_here
+      - ./logs:/app/logs
+    environment:
+      # 迁移服务器仅修改IP即可，端口号不变。
+      - DIFY_SERVER_URL=http://115.231.236.153:20000
+      - API_KEY=dataset-niArgvMgvqh8jCxPG9QsJv8A
+      - DATASET_ID=f859dff0-28f3-455d-ac44-f71d3f49c1de
+      - DOCS_PATH=/app/md_files
+      - SAVE_DIR=/app/files
+      - REFERENCE_DOCX=/app/reference.docx
+      - DOWNLOAD_HOST=http://115.231.236.153:5000
+
+  nginx-static:
+    image: nginx:alpine
+    container_name: nginx-static-1
+    restart: always
+    ports:
+      - "10000:80"  
+    volumes:
+      - ./picture:/usr/share/nginx/html:ro
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro # 关键修正：挂载配置文件

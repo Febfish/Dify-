@@ -1,0 +1,44 @@
+[0;4m [0m[0;4m [0m[0;4mUNIT                       [0m[0;4m [0m[0;4mLOAD  [0m[0;4m [0m[0;4mACTIVE[0m[0;4m [0m[0;4mSUB    [0m[0;4m [0m[0;4mDESCRIPTION                                                     [0m
+  accounts-daemon.service     loaded active running Accounts Service
+  avahi-daemon.service        loaded active running Avahi mDNS/DNS-SD Stack
+  containerd.service          loaded active running containerd container runtime
+  cron.service                loaded active running Regular background program processing daemon
+  cups-browsed.service        loaded active running Make remote CUPS printers available locally
+  cups.service                loaded active running CUPS Scheduler
+  dbus.service                loaded active running D-Bus System Message Bus
+  dify_auto_upload.service    loaded active running Dify Auto Upload Service
+  docker.service              loaded active running Docker Application Container Engine
+  getty@tty1.service          loaded active running Getty on tty1
+  kerneloops.service          loaded active running Tool to automatically collect and submit kernel crash signatures
+  md.service                  loaded active running Markdown Doc Server (Flask in dify_env)
+  md2docx.service             loaded active running Markdown to DOCX Server (Flask + Pandoc)
+  ModemManager.service        loaded active running Modem Manager
+  mysql.service               loaded active running MySQL Community Server
+  networkd-dispatcher.service loaded active running Dispatcher daemon for systemd-networkd
+  NetworkManager.service      loaded active running Network Manager
+  nmbd.service                loaded active running Samba NMB Daemon
+  ollama.service              loaded active running Ollama Service
+  polkit.service              loaded active running Authorization Manager
+  postfix@-.service           loaded active running Postfix Mail Transport Agent (instance -)
+  rsyslog.service             loaded active running System Logging Service
+  smbd.service                loaded active running Samba SMB Daemon
+  snapd.service               loaded active running Snap Daemon
+  ssh.service                 loaded active running OpenBSD Secure Shell server
+  systemd-journald.service    loaded active running Journal Service
+  systemd-logind.service      loaded active running User Login Management
+  systemd-oomd.service        loaded active running Userspace Out-Of-Memory (OOM) Killer
+  systemd-resolved.service    loaded active running Network Name Resolution
+  systemd-timesyncd.service   loaded active running Network Time Synchronization
+  systemd-udevd.service       loaded active running Rule-based Manager for Device Events and Files
+  todeskd.service             loaded active running ToDesk Daemon Service
+  udisks2.service             loaded active running Disk Manager
+  unattended-upgrades.service loaded active running Unattended Upgrades Shutdown
+  upower.service              loaded active running Daemon for power management
+  user@1000.service           loaded active running User Manager for UID 1000
+  wpa_supplicant.service      loaded active running WPA supplicant
+
+[0;38;5;245mLegend: LOAD   → Reflects whether the unit definition was properly loaded.[0m
+[0;38;5;245m        ACTIVE → The high-level unit activation state, i.e. generalization of SUB.[0m
+[0;38;5;245m        SUB    → The low-level unit activation state, values depend on unit type.[0m
+
+37 loaded units listed.

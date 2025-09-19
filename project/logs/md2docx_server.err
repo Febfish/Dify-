@@ -1,0 +1,1066 @@
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.26.0.2:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 127-645-166
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.26.0.2:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 108-378-245
+[WARNING] Could not convert TeX math '
+  L_p = \\text{SPL} + 10 \\log W - 20 \\log r
+  ', rendering as TeX:
+  
+          ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{NAG (dB)} = 20 \\log D_0 - 20 \\log \\text{EAD}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{PAG (dB)} = 20 \\log D_0 + 20 \\log D_1 - 20 \\log D_2 - 20 \\log D_s - 10 \\log \\text{NOM} - \\text{FSM}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{EPR} = 10^X
+  X = \\frac{\\text{SPL} + 3\\text{dB} + (\\Delta D_2 - \\Delta_{\\text{ref dist}}) - \\text{L}_{\\text{SENS}} (\\text{参考距离处})}{10}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  D_c (\\text{m}) = K \\sqrt{\\frac{Q V}{T_{60}}}
+  ', rendering as TeX:
+  
+         ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\%\\text{Alcons} = \\frac{200 D_2^2 T_{60}^2}{V Q}
+  ', rendering as TeX:
+  \\%\\text{Alcons} = \\frac{200 D_2^2 T_{
+  ^
+  unexpected eof
+  expecting "%", "\\label", "\\nonumber" or whitespace
+172.26.0.1 - - [17/Sep/2025 11:00:41] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+172.26.0.1 - - [17/Sep/2025 11:04:22] "POST /convert HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.26.0.2:5000
+[33mPress CTRL+C to quit[0m
+[WARNING] Could not convert TeX math '
+  L_p = \\text{SPL} + 10 \\log W - 20 \\log r
+  ', rendering as TeX:
+  
+          ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{NAG (dB)} = 20 \\log D_0 - 20 \\log \\text{EAD}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{PAG (dB)} = 20 \\log D_0 + 20 \\log D_1 - 20 \\log D_2 - 20 \\log D_s - 10 \\log \\text{NOM} - \\text{FSM}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{EPR} = 10^X
+  X = \\frac{\\text{SPL} + 3\\text{dB} + (\\Delta D_2 - \\Delta_{\\text{ref dist}}) - \\text{L}_{\\text{SENS}} (\\text{参考距离处})}{10}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  D_c (\\text{m}) = K \\sqrt{\\frac{Q V}{T_{60}}}
+  ', rendering as TeX:
+  
+         ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\%\\text{Alcons} = \\frac{200 D_2^2 T_{60}^2}{V Q}
+  ', rendering as TeX:
+  \\%\\text{Alcons} = \\frac{200 D_2^2 T_{
+  ^
+  unexpected eof
+  expecting "%", "\\label", "\\nonumber" or whitespace
+172.26.0.1 - - [17/Sep/2025 11:11:00] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+[WARNING] Could not convert TeX math '
+  L_p = \\text{SPL} + 10 \\log W - 20 \\log r
+  ', rendering as TeX:
+  
+          ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{NAG (dB)} = 20 \\log D_0 - 20 \\log \\text{EAD}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{PAG (dB)} = 20 \\log D_0 + 20 \\log D_1 - 20 \\log D_2 - 20 \\log D_s - 10 \\log \\text{NOM} - \\text{FSM}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{EPR} = 10^X
+  X = \\frac{\\text{SPL} + 3\\text{dB} + (\\Delta D_2 - \\Delta_{\\text{ref dist}}) - \\text{L}_{\\text{SENS}} (\\text{参考距离处})}{10}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  D_c (\\text{m}) = K \\sqrt{\\frac{Q V}{T_{60}}}
+  ', rendering as TeX:
+  
+         ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\%\\text{Alcons} = \\frac{200 D_2^2 T_{60}^2}{V Q}
+  ', rendering as TeX:
+  \\%\\text{Alcons} = \\frac{200 D_2^2 T_{
+  ^
+  unexpected eof
+  expecting "%", "\\label", "\\nonumber" or whitespace
+172.26.0.1 - - [17/Sep/2025 11:11:09] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+[WARNING] Could not convert TeX math '
+  L_p = \\text{SPL} + 10 \\log W - 20 \\log r
+  ', rendering as TeX:
+  
+          ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{NAG (dB)} = 20 \\log D_0 - 20 \\log \\text{EAD}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{PAG (dB)} = 20 \\log D_0 + 20 \\log D_1 - 20 \\log D_2 - 20 \\log D_s - 10 \\log \\text{NOM} - \\text{FSM}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{EPR} = 10^X
+  X = \\frac{\\text{SPL} + 3\\text{dB} + (\\Delta D_2 - \\Delta_{\\text{ref dist}}) - \\text{L}_{\\text{SENS}} (\\text{参考距离处})}{10}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  D_c (\\text{m}) = K \\sqrt{\\frac{Q V}{T_{60}}}
+  ', rendering as TeX:
+  
+         ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\%\\text{Alcons} = \\frac{200 D_2^2 T_{60}^2}{V Q}
+  ', rendering as TeX:
+  \\%\\text{Alcons} = \\frac{200 D_2^2 T_{
+  ^
+  unexpected eof
+  expecting "%", "\\label", "\\nonumber" or whitespace
+172.26.0.1 - - [17/Sep/2025 11:14:00] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+[WARNING] Could not convert TeX math '
+  L_p = \\text{SPL} + 10 \\log W - 20 \\log r
+  ', rendering as TeX:
+  
+          ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{NAG (dB)} = 20 \\log D_0 - 20 \\log \\text{EAD}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{PAG (dB)} = 20 \\log D_0 + 20 \\log D_1 - 20 \\log D_2 - 20 \\log D_s - 10 \\log \\text{NOM} - \\text{FSM}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{EPR} = 10^X
+  X = \\frac{\\text{SPL} + 3\\text{dB} + (\\Delta D_2 - \\Delta_{\\text{ref dist}}) - \\text{L}_{\\text{SENS}} (\\text{参考距离处})}{10}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  D_c (\\text{m}) = K \\sqrt{\\frac{Q V}{T_{60}}}
+  ', rendering as TeX:
+  
+         ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\%\\text{Alcons} = \\frac{200 D_2^2 T_{60}^2}{V Q}
+  ', rendering as TeX:
+  \\%\\text{Alcons} = \\frac{200 D_2^2 T_{
+  ^
+  unexpected eof
+  expecting "%", "\\label", "\\nonumber" or whitespace
+172.26.0.1 - - [17/Sep/2025 11:17:08] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+124.198.132.121 - - [17/Sep/2025 11:19:32] "[33mGET / HTTP/1.1[0m" 404 -
+172.26.0.1 - - [17/Sep/2025 11:23:31] "POST /convert HTTP/1.1" 200 -
+101.68.108.136 - - [17/Sep/2025 11:23:36] "[33mGET /files/ec344f03-9670-48bd-ba0c-4f205fbf55ac.docx/ HTTP/1.1[0m" 404 -
+101.68.108.136 - - [17/Sep/2025 11:23:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+101.68.108.136 - - [17/Sep/2025 11:23:46] "GET /files/ec344f03-9670-48bd-ba0c-4f205fbf55ac.docx HTTP/1.1" 200 -
+101.68.108.136 - - [17/Sep/2025 11:23:46] "[35m[1mGET /files/ec344f03-9670-48bd-ba0c-4f205fbf55ac.docx HTTP/1.1[0m" 206 -
+172.26.0.1 - - [17/Sep/2025 11:24:43] "POST /convert HTTP/1.1" 200 -
+101.68.108.136 - - [17/Sep/2025 11:24:45] "[33mGET /files/ddcc0130-39a7-4c7a-8638-e6f80fc6e344.docx/ HTTP/1.1[0m" 404 -
+101.68.108.136 - - [17/Sep/2025 11:24:50] "GET /files/ddcc0130-39a7-4c7a-8638-e6f80fc6e344.docx HTTP/1.1" 200 -
+101.68.108.136 - - [17/Sep/2025 11:24:50] "[35m[1mGET /files/ddcc0130-39a7-4c7a-8638-e6f80fc6e344.docx HTTP/1.1[0m" 206 -
+[WARNING] Could not convert TeX math '
+  L_p = \\text{SPL} + 10 \\log W - 20 \\log r
+  ', rendering as TeX:
+  
+          ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{NAG (dB)} = 20 \\log D_0 - 20 \\log \\text{EAD}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{PAG (dB)} = 20 \\log D_0 + 20 \\log D_1 - 20 \\log D_2 - 20 \\log D_s - 10 \\log \\text{NOM} - \\text{FSM}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{EPR} = 10^X
+  X = \\frac{\\text{SPL} + 3\\text{dB} + (\\Delta D_2 - \\Delta_{\\text{ref dist}}) - \\text{L}_{\\text{SENS}} (\\text{参考距离处})}{10}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  D_c (\\text{m}) = K \\sqrt{\\frac{Q V}{T_{60}}}
+  ', rendering as TeX:
+  
+         ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\%\\text{Alcons} = \\frac{200 D_2^2 T_{60}^2}{V Q}
+  ', rendering as TeX:
+  \\%\\text{Alcons} = \\frac{200 D_2^2 T_{
+  ^
+  unexpected eof
+  expecting "%", "\\label", "\\nonumber" or whitespace
+172.26.0.1 - - [17/Sep/2025 11:25:20] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+172.26.0.1 - - [17/Sep/2025 11:26:31] "POST /convert HTTP/1.1" 200 -
+101.68.108.136 - - [17/Sep/2025 11:26:32] "[33mGET /files/fd03fa18-7acb-4d16-aa6f-f3b026df3ebd.docx/ HTTP/1.1[0m" 404 -
+101.68.108.136 - - [17/Sep/2025 11:26:36] "GET /files/fd03fa18-7acb-4d16-aa6f-f3b026df3ebd.docx HTTP/1.1" 200 -
+101.68.108.136 - - [17/Sep/2025 11:26:36] "[35m[1mGET /files/fd03fa18-7acb-4d16-aa6f-f3b026df3ebd.docx HTTP/1.1[0m" 206 -
+172.26.0.1 - - [17/Sep/2025 11:27:24] "POST /convert HTTP/1.1" 200 -
+101.68.108.136 - - [17/Sep/2025 11:27:26] "[33mGET /files/fca88e10-de9e-4ac3-9a69-0c4de2de07a2.docx/ HTTP/1.1[0m" 404 -
+101.68.108.136 - - [17/Sep/2025 11:27:30] "GET /files/fca88e10-de9e-4ac3-9a69-0c4de2de07a2.docx HTTP/1.1" 200 -
+101.68.108.136 - - [17/Sep/2025 11:27:30] "[35m[1mGET /files/fca88e10-de9e-4ac3-9a69-0c4de2de07a2.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [17/Sep/2025 11:27:30] "[35m[1mGET /files/fca88e10-de9e-4ac3-9a69-0c4de2de07a2.docx HTTP/1.1[0m" 206 -
+[WARNING] Could not convert TeX math '
+  L_p = \\text{SPL} + 10 \\log W - 20 \\log r
+  ', rendering as TeX:
+  
+          ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{NAG (dB)} = 20 \\log D_0 - 20 \\log \\text{EAD}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{PAG (dB)} = 20 \\log D_0 + 20 \\log D_1 - 20 \\log D_2 - 20 \\log D_s - 10 \\log \\text{NOM} - \\text{FSM}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{EPR} = 10^X
+  X = \\frac{\\text{SPL} + 3\\text{dB} + (\\Delta D_2 - \\Delta_{\\text{ref dist}}) - \\text{L}_{\\text{SENS}} (\\text{参考距离处})}{10}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  D_c (\\text{m}) = K \\sqrt{\\frac{Q V}{T_{60}}}
+  ', rendering as TeX:
+  
+         ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\%\\text{Alcons} = \\frac{200 D_2^2 T_{60}^2}{V Q}
+  ', rendering as TeX:
+  \\%\\text{Alcons} = \\frac{200 D_2^2 T_{
+  ^
+  unexpected eof
+  expecting "%", "\\label", "\\nonumber" or whitespace
+172.26.0.1 - - [17/Sep/2025 11:31:12] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+172.26.0.1 - - [17/Sep/2025 11:32:01] "POST /convert HTTP/1.1" 200 -
+101.68.108.136 - - [17/Sep/2025 11:32:14] "[33mGET /files/c6f07722-f730-4166-b38f-9d700a116bbe.docx/ HTTP/1.1[0m" 404 -
+101.68.108.136 - - [17/Sep/2025 11:32:18] "GET /files/c6f07722-f730-4166-b38f-9d700a116bbe.docx HTTP/1.1" 200 -
+101.68.108.136 - - [17/Sep/2025 11:32:18] "[35m[1mGET /files/c6f07722-f730-4166-b38f-9d700a116bbe.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [17/Sep/2025 11:32:18] "[35m[1mGET /files/c6f07722-f730-4166-b38f-9d700a116bbe.docx HTTP/1.1[0m" 206 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.26.0.2:5000
+[33mPress CTRL+C to quit[0m
+[WARNING] Could not convert TeX math '
+  L_p = \\text{SPL} + 10 \\log W - 20 \\log r
+  ', rendering as TeX:
+  
+          ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{NAG (dB)} = 20 \\log D_0 - 20 \\log \\text{EAD}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{PAG (dB)} = 20 \\log D_0 + 20 \\log D_1 - 20 \\log D_2 - 20 \\log D_s - 10 \\log \\text{NOM} - \\text{FSM}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{EPR} = 10^X
+  X = \\frac{\\text{SPL} + 3\\text{dB} + (\\Delta D_2 - \\Delta_{\\text{ref dist}}) - \\text{L}_{\\text{SENS}} (\\text{参考距离处})}{10}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  D_c (\\text{m}) = K \\sqrt{\\frac{Q V}{T_{60}}}
+  ', rendering as TeX:
+  
+         ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\%\\text{Alcons} = \\frac{200 D_2^2 T_{60}^2}{V Q}
+  ', rendering as TeX:
+  \\%\\text{Alcons} = \\frac{200 D_2^2 T_{
+  ^
+  unexpected eof
+  expecting "%", "\\label", "\\nonumber" or whitespace
+172.26.0.1 - - [17/Sep/2025 11:40:38] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+[WARNING] Could not convert TeX math '
+  L_p = \\text{SPL} + 10 \\log W - 20 \\log r
+  ', rendering as TeX:
+  
+          ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{NAG (dB)} = 20 \\log D_0 - 20 \\log \\text{EAD}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{PAG (dB)} = 20 \\log D_0 + 20 \\log D_1 - 20 \\log D_2 - 20 \\log D_s - 10 \\log \\text{NOM} - \\text{FSM}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\text{EPR} = 10^X
+  X = \\frac{\\text{SPL} + 3\\text{dB} + (\\Delta D_2 - \\Delta_{\\text{ref dist}}) - \\text{L}_{\\text{SENS}} (\\text{参考距离处})}{10}
+  ', rendering as TeX:
+  
+    ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  D_c (\\text{m}) = K \\sqrt{\\frac{Q V}{T_{60}}}
+  ', rendering as TeX:
+  
+         ^
+  unexpected "t"
+  expecting "%", "\\label", "\\nonumber" or whitespace
+[WARNING] Could not convert TeX math '
+  \\%\\text{Alcons} = \\frac{200 D_2^2 T_{60}^2}{V Q}
+  ', rendering as TeX:
+  \\%\\text{Alcons} = \\frac{200 D_2^2 T_{
+  ^
+  unexpected eof
+  expecting "%", "\\label", "\\nonumber" or whitespace
+172.26.0.1 - - [17/Sep/2025 11:40:42] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+172.26.0.1 - - [17/Sep/2025 11:41:53] "POST /convert HTTP/1.1" 200 -
+172.26.0.1 - - [17/Sep/2025 11:41:54] "POST /convert HTTP/1.1" 200 -
+172.26.0.1 - - [17/Sep/2025 11:46:49] "POST /convert HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.26.0.2:5000
+[33mPress CTRL+C to quit[0m
+172.26.0.1 - - [18/Sep/2025 10:20:18] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+172.26.0.1 - - [18/Sep/2025 10:21:58] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+172.26.0.1 - - [18/Sep/2025 10:22:02] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+172.26.0.1 - - [18/Sep/2025 10:22:14] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+172.26.0.1 - - [18/Sep/2025 10:22:35] "POST /convert HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 10:22:38] "[33mGET /files/f52fe4ff-a644-4f92-908b-06008702ca21.docx/ HTTP/1.1[0m" 404 -
+101.68.108.136 - - [18/Sep/2025 10:22:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+101.68.108.136 - - [18/Sep/2025 10:22:43] "GET /files/f52fe4ff-a644-4f92-908b-06008702ca21.docx HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 10:22:43] "[35m[1mGET /files/f52fe4ff-a644-4f92-908b-06008702ca21.docx HTTP/1.1[0m" 206 -
+172.26.0.1 - - [18/Sep/2025 10:23:23] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+172.26.0.1 - - [18/Sep/2025 10:43:16] "[31m[1mPOST /convert HTTP/1.1[0m" 400 -
+172.26.0.1 - - [18/Sep/2025 11:00:05] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+172.26.0.1 - - [18/Sep/2025 11:00:58] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+172.26.0.1 - - [18/Sep/2025 12:52:31] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+172.26.0.1 - - [18/Sep/2025 12:53:10] "POST /convert HTTP/1.1" 200 -
+172.26.0.1 - - [18/Sep/2025 12:53:26] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+162.142.125.212 - - [18/Sep/2025 12:53:28] "[33mGET / HTTP/1.1[0m" 404 -
+162.142.125.212 - - [18/Sep/2025 12:53:32] code 505, message Invalid HTTP version (2.0)
+162.142.125.212 - - [18/Sep/2025 12:53:32] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+162.142.125.212 - - [18/Sep/2025 12:53:38] code 505, message Invalid HTTP version (2.0)
+162.142.125.212 - - [18/Sep/2025 12:53:38] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+162.142.125.212 - - [18/Sep/2025 12:53:40] "[33mGET /wiki HTTP/1.1[0m" 404 -
+119.163.43.123 - - [18/Sep/2025 12:53:41] "[33mGET / HTTP/1.1[0m" 404 -
+182.138.158.20 - - [18/Sep/2025 12:53:41] code 400, message Bad request version ('[ºùo\x9eÏ\x804\x05Î?X\x88\x82\x8dæªQæ\x02pÇN\x14\x00Ü\x10Öú\x97ãî\x00b\x13\x02\x13\x03\x13\x01À,À0À+À/Ì©Ì¨\x00£\x00\x9f\x00¢\x00\x9eÌªÀ¯À\xadÀ$À(À')
+182.138.158.20 - - [18/Sep/2025 12:53:41] "[35m[1m\x16\x03\x01\x01D\x01\x00\x01@\x03\x03ÂªÖüáÒ\x09LÏz´.ãE#\x16õqdÏØ+À~­\x96(\x18\x87¤!I [ºùo\x9eÏ\x804\x05Î?X\x88\x82\x8dæªQæ\x02pÇN\x14\x00Ü\x10Öú\x97ãî\x00b\x13\x02\x13\x03\x13\x01À,À0À+À/Ì©Ì¨\x00£\x00\x9f\x00¢\x00\x9eÌªÀ¯À­À$À(À[0m" HTTPStatus.BAD_REQUEST -
+172.26.0.1 - - [18/Sep/2025 12:56:10] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+172.26.0.1 - - [18/Sep/2025 12:59:09] "POST /convert HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 12:59:13] "[33mGET /files/2e038c7e-0fda-4eab-be29-0f571285655a.docx/ HTTP/1.1[0m" 404 -
+101.68.108.136 - - [18/Sep/2025 12:59:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+101.68.108.136 - - [18/Sep/2025 12:59:17] "GET /files/2e038c7e-0fda-4eab-be29-0f571285655a.docx HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 12:59:17] "[35m[1mGET /files/2e038c7e-0fda-4eab-be29-0f571285655a.docx HTTP/1.1[0m" 206 -
+172.26.0.1 - - [18/Sep/2025 13:00:10] "POST /convert HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 13:00:12] "[33mGET /files/ca840d37-308e-4e83-a2b8-a3c32f959933.docx/ HTTP/1.1[0m" 404 -
+101.68.108.136 - - [18/Sep/2025 13:00:17] "GET /files/ca840d37-308e-4e83-a2b8-a3c32f959933.docx HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 13:00:17] "[35m[1mGET /files/ca840d37-308e-4e83-a2b8-a3c32f959933.docx HTTP/1.1[0m" 206 -
+172.26.0.1 - - [18/Sep/2025 13:00:32] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.26.0.2:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 135-745-469
+转换失败: "no style with name 'Table Grid'"
+172.26.0.1 - - [18/Sep/2025 13:15:03] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+转换失败: "no style with name 'Table Grid'"
+172.26.0.1 - - [18/Sep/2025 13:18:24] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+转换失败: "no style with name 'Table Grid'"
+172.26.0.1 - - [18/Sep/2025 13:18:25] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.26.0.2:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 139-142-196
+转换失败: "no style with name 'Table Grid'"
+172.26.0.1 - - [18/Sep/2025 13:23:58] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+172.26.0.1 - - [18/Sep/2025 13:24:24] "POST /convert HTTP/1.1" 200 -
+转换失败: "no style with name 'Table Grid'"
+172.26.0.1 - - [18/Sep/2025 13:25:13] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+172.26.0.1 - - [18/Sep/2025 13:29:47] "POST /convert HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 13:29:50] "[33mGET /files/09120ffd-dc55-4536-aaff-4918bd806043.docx/ HTTP/1.1[0m" 404 -
+101.68.108.136 - - [18/Sep/2025 13:29:54] "GET /files/09120ffd-dc55-4536-aaff-4918bd806043.docx HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 13:29:55] "[35m[1mGET /files/09120ffd-dc55-4536-aaff-4918bd806043.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:29:55] "[35m[1mGET /files/09120ffd-dc55-4536-aaff-4918bd806043.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:29:55] "[35m[1mGET /files/09120ffd-dc55-4536-aaff-4918bd806043.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:29:55] "[35m[1mGET /files/09120ffd-dc55-4536-aaff-4918bd806043.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:29:55] "[35m[1mGET /files/09120ffd-dc55-4536-aaff-4918bd806043.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:29:55] "[35m[1mGET /files/09120ffd-dc55-4536-aaff-4918bd806043.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:29:55] "[35m[1mGET /files/09120ffd-dc55-4536-aaff-4918bd806043.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:29:55] "[35m[1mGET /files/09120ffd-dc55-4536-aaff-4918bd806043.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:29:55] "[35m[1mGET /files/09120ffd-dc55-4536-aaff-4918bd806043.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:29:55] "[35m[1mGET /files/09120ffd-dc55-4536-aaff-4918bd806043.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:29:55] "[35m[1mGET /files/09120ffd-dc55-4536-aaff-4918bd806043.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:29:55] "[35m[1mGET /files/09120ffd-dc55-4536-aaff-4918bd806043.docx HTTP/1.1[0m" 206 -
+172.26.0.1 - - [18/Sep/2025 13:30:34] "POST /convert HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 13:30:39] "[33mGET /files/8c610d07-ee12-4fe5-a71a-ee7dc4b4916c.docx/ HTTP/1.1[0m" 404 -
+101.68.108.136 - - [18/Sep/2025 13:30:43] "GET /files/8c610d07-ee12-4fe5-a71a-ee7dc4b4916c.docx HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 13:30:43] "[35m[1mGET /files/8c610d07-ee12-4fe5-a71a-ee7dc4b4916c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:30:43] "[35m[1mGET /files/8c610d07-ee12-4fe5-a71a-ee7dc4b4916c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:30:43] "[35m[1mGET /files/8c610d07-ee12-4fe5-a71a-ee7dc4b4916c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:30:43] "[35m[1mGET /files/8c610d07-ee12-4fe5-a71a-ee7dc4b4916c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:30:43] "[35m[1mGET /files/8c610d07-ee12-4fe5-a71a-ee7dc4b4916c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:30:43] "[35m[1mGET /files/8c610d07-ee12-4fe5-a71a-ee7dc4b4916c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:30:43] "[35m[1mGET /files/8c610d07-ee12-4fe5-a71a-ee7dc4b4916c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:30:43] "[35m[1mGET /files/8c610d07-ee12-4fe5-a71a-ee7dc4b4916c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:30:43] "[35m[1mGET /files/8c610d07-ee12-4fe5-a71a-ee7dc4b4916c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:30:43] "[35m[1mGET /files/8c610d07-ee12-4fe5-a71a-ee7dc4b4916c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:30:43] "[35m[1mGET /files/8c610d07-ee12-4fe5-a71a-ee7dc4b4916c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:30:44] "[35m[1mGET /files/8c610d07-ee12-4fe5-a71a-ee7dc4b4916c.docx HTTP/1.1[0m" 206 -
+172.26.0.1 - - [18/Sep/2025 13:32:08] "POST /convert HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 13:32:09] "[33mGET /files/4c93e3da-9469-4ee3-b83a-a6216b176356.docx/ HTTP/1.1[0m" 404 -
+101.68.108.136 - - [18/Sep/2025 13:32:13] "GET /files/4c93e3da-9469-4ee3-b83a-a6216b176356.docx HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 13:32:13] "[35m[1mGET /files/4c93e3da-9469-4ee3-b83a-a6216b176356.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:32:13] "[35m[1mGET /files/4c93e3da-9469-4ee3-b83a-a6216b176356.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:32:13] "[35m[1mGET /files/4c93e3da-9469-4ee3-b83a-a6216b176356.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:32:13] "[35m[1mGET /files/4c93e3da-9469-4ee3-b83a-a6216b176356.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:32:13] "[35m[1mGET /files/4c93e3da-9469-4ee3-b83a-a6216b176356.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:32:13] "[35m[1mGET /files/4c93e3da-9469-4ee3-b83a-a6216b176356.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:32:13] "[35m[1mGET /files/4c93e3da-9469-4ee3-b83a-a6216b176356.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:32:13] "[35m[1mGET /files/4c93e3da-9469-4ee3-b83a-a6216b176356.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:32:13] "[35m[1mGET /files/4c93e3da-9469-4ee3-b83a-a6216b176356.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:32:13] "[35m[1mGET /files/4c93e3da-9469-4ee3-b83a-a6216b176356.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:32:13] "[35m[1mGET /files/4c93e3da-9469-4ee3-b83a-a6216b176356.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:32:14] "[35m[1mGET /files/4c93e3da-9469-4ee3-b83a-a6216b176356.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:32:14] "[35m[1mGET /files/4c93e3da-9469-4ee3-b83a-a6216b176356.docx HTTP/1.1[0m" 206 -
+转换失败: "no style with name 'Table Grid'"
+172.26.0.1 - - [18/Sep/2025 13:33:02] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+转换失败: "no style with name 'Table Grid'"
+172.26.0.1 - - [18/Sep/2025 13:33:03] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+转换失败: "no style with name 'Table Grid'"
+172.26.0.1 - - [18/Sep/2025 13:33:03] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+转换失败: "no style with name 'Table Grid'"
+172.26.0.1 - - [18/Sep/2025 13:33:04] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+转换失败: "no style with name 'Table Grid'"
+172.26.0.1 - - [18/Sep/2025 13:33:47] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+转换失败: "no style with name 'Table Grid'"
+172.26.0.1 - - [18/Sep/2025 13:33:59] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+转换失败: "no style with name 'Table Grid'"
+172.26.0.1 - - [18/Sep/2025 13:35:11] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+转换失败: "no style with name 'Table Grid'"
+172.26.0.1 - - [18/Sep/2025 13:35:23] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+172.26.0.1 - - [18/Sep/2025 13:37:15] "POST /convert HTTP/1.1" 200 -
+172.26.0.1 - - [18/Sep/2025 13:40:02] "POST /convert HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 13:40:13] "[33mGET /files/83ac328c-5d53-4312-bd89-e865ec475ed5.docx/ HTTP/1.1[0m" 404 -
+101.68.108.136 - - [18/Sep/2025 13:40:17] "GET /files/83ac328c-5d53-4312-bd89-e865ec475ed5.docx HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 13:40:18] "[35m[1mGET /files/83ac328c-5d53-4312-bd89-e865ec475ed5.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:40:18] "[35m[1mGET /files/83ac328c-5d53-4312-bd89-e865ec475ed5.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:40:18] "[35m[1mGET /files/83ac328c-5d53-4312-bd89-e865ec475ed5.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:40:18] "[35m[1mGET /files/83ac328c-5d53-4312-bd89-e865ec475ed5.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:40:18] "[35m[1mGET /files/83ac328c-5d53-4312-bd89-e865ec475ed5.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:40:18] "[35m[1mGET /files/83ac328c-5d53-4312-bd89-e865ec475ed5.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:40:18] "[35m[1mGET /files/83ac328c-5d53-4312-bd89-e865ec475ed5.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:40:18] "[35m[1mGET /files/83ac328c-5d53-4312-bd89-e865ec475ed5.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:40:18] "[35m[1mGET /files/83ac328c-5d53-4312-bd89-e865ec475ed5.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:40:18] "[35m[1mGET /files/83ac328c-5d53-4312-bd89-e865ec475ed5.docx HTTP/1.1[0m" 206 -
+172.26.0.1 - - [18/Sep/2025 13:42:30] "POST /convert HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 13:42:33] "[33mGET /files/7f44ca14-5e7e-41ac-9ae3-265e450d5e2a.docx/ HTTP/1.1[0m" 404 -
+101.68.108.136 - - [18/Sep/2025 13:42:38] "GET /files/7f44ca14-5e7e-41ac-9ae3-265e450d5e2a.docx HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 13:42:38] "[35m[1mGET /files/7f44ca14-5e7e-41ac-9ae3-265e450d5e2a.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:42:38] "[35m[1mGET /files/7f44ca14-5e7e-41ac-9ae3-265e450d5e2a.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:42:38] "[35m[1mGET /files/7f44ca14-5e7e-41ac-9ae3-265e450d5e2a.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:42:38] "[35m[1mGET /files/7f44ca14-5e7e-41ac-9ae3-265e450d5e2a.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:42:38] "[35m[1mGET /files/7f44ca14-5e7e-41ac-9ae3-265e450d5e2a.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:42:38] "[35m[1mGET /files/7f44ca14-5e7e-41ac-9ae3-265e450d5e2a.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:42:38] "[35m[1mGET /files/7f44ca14-5e7e-41ac-9ae3-265e450d5e2a.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:42:38] "[35m[1mGET /files/7f44ca14-5e7e-41ac-9ae3-265e450d5e2a.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:42:38] "[35m[1mGET /files/7f44ca14-5e7e-41ac-9ae3-265e450d5e2a.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:42:38] "[35m[1mGET /files/7f44ca14-5e7e-41ac-9ae3-265e450d5e2a.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:42:38] "[35m[1mGET /files/7f44ca14-5e7e-41ac-9ae3-265e450d5e2a.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:42:38] "[35m[1mGET /files/7f44ca14-5e7e-41ac-9ae3-265e450d5e2a.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:42:38] "[35m[1mGET /files/7f44ca14-5e7e-41ac-9ae3-265e450d5e2a.docx HTTP/1.1[0m" 206 -
+172.26.0.1 - - [18/Sep/2025 13:43:00] "POST /convert HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 13:43:02] "[33mGET /files/afadfdbc-c81c-4de5-88fe-074caa5085b5.docx/ HTTP/1.1[0m" 404 -
+101.68.108.136 - - [18/Sep/2025 13:43:06] "GET /files/afadfdbc-c81c-4de5-88fe-074caa5085b5.docx HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 13:43:06] "[35m[1mGET /files/afadfdbc-c81c-4de5-88fe-074caa5085b5.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:43:06] "[35m[1mGET /files/afadfdbc-c81c-4de5-88fe-074caa5085b5.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:43:06] "[35m[1mGET /files/afadfdbc-c81c-4de5-88fe-074caa5085b5.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:43:06] "[35m[1mGET /files/afadfdbc-c81c-4de5-88fe-074caa5085b5.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:43:06] "[35m[1mGET /files/afadfdbc-c81c-4de5-88fe-074caa5085b5.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:43:06] "[35m[1mGET /files/afadfdbc-c81c-4de5-88fe-074caa5085b5.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:43:06] "[35m[1mGET /files/afadfdbc-c81c-4de5-88fe-074caa5085b5.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:43:06] "[35m[1mGET /files/afadfdbc-c81c-4de5-88fe-074caa5085b5.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:43:07] "[35m[1mGET /files/afadfdbc-c81c-4de5-88fe-074caa5085b5.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:43:07] "[35m[1mGET /files/afadfdbc-c81c-4de5-88fe-074caa5085b5.docx HTTP/1.1[0m" 206 -
+转换失败: "no style with name 'Table Grid'"
+172.26.0.1 - - [18/Sep/2025 13:43:30] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+172.26.0.1 - - [18/Sep/2025 13:50:40] "POST /convert HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 13:50:47] "GET /files/e16c9569-1cd8-4fe1-bf36-4f55b1c21577.docx HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 13:50:47] "[35m[1mGET /files/e16c9569-1cd8-4fe1-bf36-4f55b1c21577.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:50:47] "[35m[1mGET /files/e16c9569-1cd8-4fe1-bf36-4f55b1c21577.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:50:47] "[35m[1mGET /files/e16c9569-1cd8-4fe1-bf36-4f55b1c21577.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:50:47] "[35m[1mGET /files/e16c9569-1cd8-4fe1-bf36-4f55b1c21577.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:50:47] "[35m[1mGET /files/e16c9569-1cd8-4fe1-bf36-4f55b1c21577.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:50:47] "[35m[1mGET /files/e16c9569-1cd8-4fe1-bf36-4f55b1c21577.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:50:47] "[35m[1mGET /files/e16c9569-1cd8-4fe1-bf36-4f55b1c21577.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:50:47] "[35m[1mGET /files/e16c9569-1cd8-4fe1-bf36-4f55b1c21577.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:50:47] "[35m[1mGET /files/e16c9569-1cd8-4fe1-bf36-4f55b1c21577.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:50:47] "[35m[1mGET /files/e16c9569-1cd8-4fe1-bf36-4f55b1c21577.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:50:47] "[35m[1mGET /files/e16c9569-1cd8-4fe1-bf36-4f55b1c21577.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:50:48] "[35m[1mGET /files/e16c9569-1cd8-4fe1-bf36-4f55b1c21577.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:50:48] "[35m[1mGET /files/e16c9569-1cd8-4fe1-bf36-4f55b1c21577.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:50:48] "[35m[1mGET /files/e16c9569-1cd8-4fe1-bf36-4f55b1c21577.docx HTTP/1.1[0m" 206 -
+172.26.0.1 - - [18/Sep/2025 13:51:09] "POST /convert HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 13:51:11] "[33mGET /files/c9887e49-2269-434f-99f8-67f4655a47c3.docx/ HTTP/1.1[0m" 404 -
+101.68.108.136 - - [18/Sep/2025 13:51:15] "GET /files/c9887e49-2269-434f-99f8-67f4655a47c3.docx HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 13:51:16] "[35m[1mGET /files/c9887e49-2269-434f-99f8-67f4655a47c3.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:51:16] "[35m[1mGET /files/c9887e49-2269-434f-99f8-67f4655a47c3.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:51:16] "[35m[1mGET /files/c9887e49-2269-434f-99f8-67f4655a47c3.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:51:16] "[35m[1mGET /files/c9887e49-2269-434f-99f8-67f4655a47c3.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:51:16] "[35m[1mGET /files/c9887e49-2269-434f-99f8-67f4655a47c3.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:51:16] "[35m[1mGET /files/c9887e49-2269-434f-99f8-67f4655a47c3.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:51:16] "[35m[1mGET /files/c9887e49-2269-434f-99f8-67f4655a47c3.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:51:16] "[35m[1mGET /files/c9887e49-2269-434f-99f8-67f4655a47c3.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:51:16] "[35m[1mGET /files/c9887e49-2269-434f-99f8-67f4655a47c3.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:51:16] "[35m[1mGET /files/c9887e49-2269-434f-99f8-67f4655a47c3.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:51:16] "[35m[1mGET /files/c9887e49-2269-434f-99f8-67f4655a47c3.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:51:16] "[35m[1mGET /files/c9887e49-2269-434f-99f8-67f4655a47c3.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 13:51:16] "[35m[1mGET /files/c9887e49-2269-434f-99f8-67f4655a47c3.docx HTTP/1.1[0m" 206 -
+96.126.104.20 - - [18/Sep/2025 13:54:24] code 400, message Bad request version ('À\x13À')
+96.126.104.20 - - [18/Sep/2025 13:54:24] "[35m[1m\x16\x03\x01\x00ò\x01\x00\x00î\x03\x03}V/\x8beÑú\x9d½\x9dò\x10\x8e\x9bv(\x06z\x11\x18Ø\x91\x16:uÆc²´Ò\x09g ¬¦\x9b|s>õÛíö\x13|Lâ¥Èj\x1c0¥à@ò%RËÁc\x7f¸Zb\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+96.126.104.20 - - [18/Sep/2025 13:54:24] "[33mGET /signin HTTP/1.1[0m" 404 -
+转换失败: "no style with name 'Table Grid'"
+172.26.0.1 - - [18/Sep/2025 13:55:18] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+转换失败: "no style with name 'Table Grid'"
+172.26.0.1 - - [18/Sep/2025 13:55:21] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+转换失败: "no style with name 'Table Grid'"
+172.26.0.1 - - [18/Sep/2025 13:58:17] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+转换失败: "no style with name 'Table Grid'"
+172.26.0.1 - - [18/Sep/2025 13:58:21] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+转换失败: "no style with name 'Table Grid'"
+172.26.0.1 - - [18/Sep/2025 13:58:28] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+转换失败: "no style with name 'Table Grid'"
+172.26.0.1 - - [18/Sep/2025 13:58:33] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+172.26.0.1 - - [18/Sep/2025 13:58:38] "POST /convert HTTP/1.1" 200 -
+172.26.0.1 - - [18/Sep/2025 13:58:49] "POST /convert HTTP/1.1" 200 -
+172.26.0.1 - - [18/Sep/2025 13:58:55] "POST /convert HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.26.0.2:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 224-366-328
+172.26.0.1 - - [18/Sep/2025 14:04:49] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/app/md2docx_server.py", line 51, in convert_md_to_docx
+    pypandoc.convert_file(
+TypeError: convert_file() got an unexpected keyword argument 'source'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1536, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1514, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/app/md2docx_server.py", line 70, in convert_md_to_docx
+    except pypandoc.PandocError as e:
+AttributeError: module 'pypandoc' has no attribute 'PandocError'
+172.26.0.1 - - [18/Sep/2025 14:04:54] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/app/md2docx_server.py", line 51, in convert_md_to_docx
+    pypandoc.convert_file(
+TypeError: convert_file() got an unexpected keyword argument 'source'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1536, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1514, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/app/md2docx_server.py", line 70, in convert_md_to_docx
+    except pypandoc.PandocError as e:
+AttributeError: module 'pypandoc' has no attribute 'PandocError'
+172.26.0.1 - - [18/Sep/2025 14:05:41] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/app/md2docx_server.py", line 51, in convert_md_to_docx
+    pypandoc.convert_file(
+TypeError: convert_file() got an unexpected keyword argument 'source'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1536, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1514, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/app/md2docx_server.py", line 70, in convert_md_to_docx
+    except pypandoc.PandocError as e:
+AttributeError: module 'pypandoc' has no attribute 'PandocError'
+172.26.0.1 - - [18/Sep/2025 14:05:54] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/app/md2docx_server.py", line 51, in convert_md_to_docx
+    pypandoc.convert_file(
+TypeError: convert_file() got an unexpected keyword argument 'source'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1536, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1514, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/app/md2docx_server.py", line 70, in convert_md_to_docx
+    except pypandoc.PandocError as e:
+AttributeError: module 'pypandoc' has no attribute 'PandocError'
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.26.0.2:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 126-184-048
+172.26.0.1 - - [18/Sep/2025 14:19:04] "POST /convert HTTP/1.1" 200 -
+172.26.0.1 - - [18/Sep/2025 14:19:53] "POST /convert HTTP/1.1" 200 -
+172.26.0.1 - - [18/Sep/2025 14:20:41] "POST /convert HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.26.0.2:5000
+[33mPress CTRL+C to quit[0m
+[2025-09-18 14:28:10,242] ERROR in app: Exception on /convert [POST]
+Traceback (most recent call last):
+  File "/app/md2docx_server.py", line 49, in convert_md_to_docx
+    pypandoc.convert_text(
+TypeError: convert_text() missing 1 required positional argument: 'format'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/app/md2docx_server.py", line 63, in convert_md_to_docx
+    except pypandoc.PandocError as e:
+AttributeError: module 'pypandoc' has no attribute 'PandocError'
+172.26.0.1 - - [18/Sep/2025 14:28:10] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.26.0.2:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 970-125-294
+pandoc: Data.Binary.Get.runGet at position 0: not enough bytes
+CallStack (from HasCallStack):
+  error, called at libraries/binary/src/Data/Binary/Get.hs:351:5 in binary-0.8.7.0:Data.Binary.Get
+172.26.0.1 - - [18/Sep/2025 14:31:25] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/app/md2docx_server.py", line 44, in convert_md_to_docx
+    subprocess.run([
+  File "/usr/local/lib/python3.10/subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['pandoc', '/app/files/bc1c98d1-5cb9-494c-b620-e5403fb6c969.md', '-o', '/app/files/bc1c98d1-5cb9-494c-b620-e5403fb6c969.docx', '--reference-doc', '/app/reference.docx', '--standalone']' returned non-zero exit status 1.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1536, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1514, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/app/md2docx_server.py", line 55, in convert_md_to_docx
+    return jsonify({"error": f"Pandoc conversion failed: {e.stderr.decode('utf-8')}"}), 500
+AttributeError: 'NoneType' object has no attribute 'decode'
+pandoc: Data.Binary.Get.runGet at position 0: not enough bytes
+CallStack (from HasCallStack):
+  error, called at libraries/binary/src/Data/Binary/Get.hs:351:5 in binary-0.8.7.0:Data.Binary.Get
+172.26.0.1 - - [18/Sep/2025 14:32:30] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/app/md2docx_server.py", line 44, in convert_md_to_docx
+    subprocess.run([
+  File "/usr/local/lib/python3.10/subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['pandoc', '/app/files/f8b7369d-04dd-465a-bf23-d971cdc6bcfb.md', '-o', '/app/files/f8b7369d-04dd-465a-bf23-d971cdc6bcfb.docx', '--reference-doc', '/app/reference.docx', '--standalone']' returned non-zero exit status 1.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1536, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1514, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/app/md2docx_server.py", line 55, in convert_md_to_docx
+    return jsonify({"error": f"Pandoc conversion failed: {e.stderr.decode('utf-8')}"}), 500
+AttributeError: 'NoneType' object has no attribute 'decode'
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.26.0.2:5000
+[33mPress CTRL+C to quit[0m
+pandoc: Data.Binary.Get.runGet at position 0: not enough bytes
+CallStack (from HasCallStack):
+  error, called at libraries/binary/src/Data/Binary/Get.hs:351:5 in binary-0.8.7.0:Data.Binary.Get
+172.26.0.1 - - [18/Sep/2025 14:36:33] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.26.0.2:5000
+[33mPress CTRL+C to quit[0m
+pandoc: Data.Binary.Get.runGet at position 0: not enough bytes
+CallStack (from HasCallStack):
+  error, called at libraries/binary/src/Data/Binary/Get.hs:351:5 in binary-0.8.7.0:Data.Binary.Get
+172.26.0.1 - - [18/Sep/2025 14:39:29] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+pandoc: Data.Binary.Get.runGet at position 0: not enough bytes
+CallStack (from HasCallStack):
+  error, called at libraries/binary/src/Data/Binary/Get.hs:351:5 in binary-0.8.7.0:Data.Binary.Get
+172.26.0.1 - - [18/Sep/2025 14:39:38] "[35m[1mPOST /convert HTTP/1.1[0m" 500 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.26.0.2:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 132-541-929
+172.26.0.1 - - [18/Sep/2025 14:43:20] "POST /convert HTTP/1.1" 200 -
+172.26.0.1 - - [18/Sep/2025 14:48:54] "POST /convert HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.26.0.2:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 566-493-845
+172.26.0.1 - - [18/Sep/2025 14:51:18] "POST /convert HTTP/1.1" 200 -
+172.26.0.1 - - [18/Sep/2025 14:51:41] "POST /convert HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 14:58:13] "GET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 14:58:13] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 14:58:13] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 14:58:13] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 14:58:13] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 14:58:13] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 14:58:13] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 14:58:13] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 14:58:13] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 14:58:13] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 14:58:14] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 14:58:14] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 14:58:14] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 14:58:14] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:01:57] "[33mGET /391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 404 -
+101.68.108.136 - - [18/Sep/2025 15:02:46] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:02:46] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:02:46] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:02:46] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:02:46] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:02:46] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:02:46] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:02:46] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:02:46] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:02:46] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:02:46] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:02:46] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:02:46] "[35m[1mGET /files/391dfae4-a6e5-41bc-b190-96c819d8bed9.docx HTTP/1.1[0m" 206 -
+172.26.0.1 - - [18/Sep/2025 15:03:20] "POST /convert HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 15:03:25] "GET /files/f25f3d2e-d68f-4b13-8fe9-a60ae8d11d0c.docx HTTP/1.1" 200 -
+101.68.108.136 - - [18/Sep/2025 15:03:25] "[35m[1mGET /files/f25f3d2e-d68f-4b13-8fe9-a60ae8d11d0c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:03:25] "[35m[1mGET /files/f25f3d2e-d68f-4b13-8fe9-a60ae8d11d0c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:03:25] "[35m[1mGET /files/f25f3d2e-d68f-4b13-8fe9-a60ae8d11d0c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:03:25] "[35m[1mGET /files/f25f3d2e-d68f-4b13-8fe9-a60ae8d11d0c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:03:25] "[35m[1mGET /files/f25f3d2e-d68f-4b13-8fe9-a60ae8d11d0c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:03:25] "[35m[1mGET /files/f25f3d2e-d68f-4b13-8fe9-a60ae8d11d0c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:03:25] "[35m[1mGET /files/f25f3d2e-d68f-4b13-8fe9-a60ae8d11d0c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:03:25] "[35m[1mGET /files/f25f3d2e-d68f-4b13-8fe9-a60ae8d11d0c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:03:25] "[35m[1mGET /files/f25f3d2e-d68f-4b13-8fe9-a60ae8d11d0c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:03:25] "[35m[1mGET /files/f25f3d2e-d68f-4b13-8fe9-a60ae8d11d0c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:03:26] "[35m[1mGET /files/f25f3d2e-d68f-4b13-8fe9-a60ae8d11d0c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:03:26] "[35m[1mGET /files/f25f3d2e-d68f-4b13-8fe9-a60ae8d11d0c.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [18/Sep/2025 15:03:26] "[35m[1mGET /files/f25f3d2e-d68f-4b13-8fe9-a60ae8d11d0c.docx HTTP/1.1[0m" 206 -
+96.126.104.20 - - [18/Sep/2025 17:52:25] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00ò\x01\x00\x00î\x03\x03!R\x83')
+96.126.104.20 - - [18/Sep/2025 17:52:25] "[35m[1m\x16\x03\x01\x00ò\x01\x00\x00î\x03\x03!R\x83\x0b\x7fx\x9ahH\x91E[0m" HTTPStatus.BAD_REQUEST -
+96.126.104.20 - - [18/Sep/2025 17:52:25] "[33mGET /signin HTTP/1.1[0m" 404 -
+176.32.195.85 - - [18/Sep/2025 18:12:08] "[33mGET / HTTP/1.0[0m" 404 -
+176.32.195.85 - - [18/Sep/2025 18:12:11] code 400, message Bad request version ('À\x13À')
+176.32.195.85 - - [18/Sep/2025 18:12:11] "[35m[1m\x16\x03\x01\x05¨\x01\x00\x05¤\x03\x03Mô:Ø3&'RÂä)#\x01\x83\x8fúe\x87ã>\x99\x8c\x92agÛr$i\x18\x8d\x7f À)0\x05aU\x01x»t\x02ïmdÑ4«ù¿F\x0dÿ¡\x93\x01¯6aeh\x1b.\x00\x1aÀ+À/À,À0Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+176.32.195.85 - - [18/Sep/2025 18:12:12] "[33mGET /v2/_catalog HTTP/1.1[0m" 404 -
+176.32.195.85 - - [18/Sep/2025 18:12:43] code 400, message Bad request version ('À\x13À')
+176.32.195.85 - - [18/Sep/2025 18:12:43] "[35m[1m\x16\x03\x01\x05¨\x01\x00\x05¤\x03\x03xA\x91N7`\x9d¦OÊ«îxè\x85\x08à+\x83\x93úWJ3\x11 \x9bÔ!/\x82Y Ç®¤\x9bdTÓ{\x069}ZÝäv¡\x8f\x12(?T\x01\x04ìlÐ;ËOÏºÞ\x00\x1aÀ+À/À,À0Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+176.32.195.85 - - [18/Sep/2025 18:12:43] code 400, message Bad request version ('À\x13À')
+176.32.195.85 - - [18/Sep/2025 18:12:43] "[35m[1m\x16\x03\x01\x05¨\x01\x00\x05¤\x03\x03Ì\x94\x1a\x99\x1f\x91\x92óp@t[ÂÚ/ÛÐ=W$·^Mù¶U\x13ÖûÝ\x14\x06  I¹Ò<Õ\x04ï»Ç\x19[\x94¤u<}\x91Áßá\x9b&^Ó¨|\x9e\x98Q\x85ê\x00\x1aÀ+À/À,À0Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+176.32.195.85 - - [18/Sep/2025 18:12:43] "[33mGET /v2/_catalog HTTP/1.1[0m" 404 -
+176.32.195.85 - - [18/Sep/2025 18:12:43] "[33mGET /aaa9 HTTP/1.1[0m" 404 -
+176.32.195.85 - - [18/Sep/2025 18:12:44] code 400, message Bad request version ('À\x13À')
+176.32.195.85 - - [18/Sep/2025 18:12:44] "[35m[1m\x16\x03\x01\x05¨\x01\x00\x05¤\x03\x03\x8c\x84\x18ª`\x0dÔ&¨\x1a÷\x07¼÷\x97\x01Ê¸\x9dK\x0dÓÕ©Þðl\x8av*\x82º #®\x9dø]ðB³j9\x0c\x11{óÐgsXÙÒ\x967ÞYö\x91y\x9d £\x9a2\x00\x1aÀ+À/À,À0Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+176.32.195.85 - - [18/Sep/2025 18:12:45] "[33mGET /aab9 HTTP/1.1[0m" 404 -
+185.170.144.3 - - [18/Sep/2025 20:03:51] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+185.170.144.3 - - [18/Sep/2025 20:03:51] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+167.94.145.111 - - [18/Sep/2025 20:14:40] code 400, message Bad request version ('À\x14À')
+167.94.145.111 - - [18/Sep/2025 20:14:40] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03ü×!ÛþûÆ\x08\x04#<\x99('h9Ô~àô_\x0c\x9eÍ\x87PÉ\x0b?¥©Ô '\x1a\x14\x9fú²G\x0eÐ\x88^Ïq)Ë4êÊµZ¥J\x80øL¦¾Î\x1b£ûÛ\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+167.94.145.111 - - [18/Sep/2025 20:14:44] "[33mGET / HTTP/1.1[0m" 404 -
+167.94.145.111 - - [18/Sep/2025 20:14:50] "[33mGET / HTTP/1.1[0m" 404 -
+167.94.145.111 - - [18/Sep/2025 20:14:50] code 505, message Invalid HTTP version (2.0)
+167.94.145.111 - - [18/Sep/2025 20:14:50] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+167.94.145.111 - - [18/Sep/2025 20:14:54] code 505, message Invalid HTTP version (2.0)
+167.94.145.111 - - [18/Sep/2025 20:14:54] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+167.94.145.111 - - [18/Sep/2025 20:14:55] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+198.235.24.125 - - [18/Sep/2025 20:21:43] "[33mGET / HTTP/1.1[0m" 404 -
+123.244.28.101 - - [18/Sep/2025 21:08:25] code 400, message Bad request version ('À\x13À')
+123.244.28.101 - - [18/Sep/2025 21:08:25] "[35m[1m\x16\x03\x01\x00ò\x01\x00\x00î\x03\x03¼ãæÓF\x8c©7ê<\x0e\x0dE+Ër|Ãò\x0b.þ\x04¼\x07=ma\x07åªÜ \x01T:bË\x85»8\x0f8\x8cüKûÂïÝgÉ{\x15|'ÛÍ®¸6¹c\x81Ö\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+123.244.28.101 - - [18/Sep/2025 21:08:25] "[33mGET / HTTP/1.1[0m" 404 -
+96.126.104.20 - - [18/Sep/2025 21:54:34] code 400, message Bad request version ('À\x13À')
+96.126.104.20 - - [18/Sep/2025 21:54:34] "[35m[1m\x16\x03\x01\x00ò\x01\x00\x00î\x03\x03í;\x87\x14z\x08£5j\x1c!»\x03æ.\x8ecñ\x84\x1dX\x0cb¦0IQDü\x18¡$ Ò$hü-A[\x1bsgg\x8dì¼No¤$\x98m¶bÜ\x86\x8c¬\x04\x8e×)\x9fz\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+96.126.104.20 - - [18/Sep/2025 21:54:35] "[33mGET /signin HTTP/1.1[0m" 404 -
+178.159.37.112 - - [19/Sep/2025 00:41:01] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+178.159.37.112 - - [19/Sep/2025 00:41:01] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+178.159.37.112 - - [19/Sep/2025 01:14:12] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+178.159.37.112 - - [19/Sep/2025 01:14:12] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+96.126.104.20 - - [19/Sep/2025 01:57:51] code 400, message Bad request version ('À\x13À')
+96.126.104.20 - - [19/Sep/2025 01:57:51] "[35m[1m\x16\x03\x01\x00ò\x01\x00\x00î\x03\x03¯ÀÀ\x8e\x8f\x04\x14ô¢>\x81\x15êÓCûóÅøÀî\x01Áý\x97ÎÏ­Ð\x8bIc ùA¬¢õÒ\\\x1eßl{2dC¬['\x05S;I¾¢\x03ï¾¤@=IÐG\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+96.126.104.20 - - [19/Sep/2025 01:57:51] "[33mGET /signin HTTP/1.1[0m" 404 -
+147.185.132.43 - - [19/Sep/2025 01:59:47] "[33mGET / HTTP/1.1[0m" 404 -
+65.49.1.94 - - [19/Sep/2025 02:01:05] "[33mGET / HTTP/1.1[0m" 404 -
+65.49.1.103 - - [19/Sep/2025 02:01:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+178.159.37.112 - - [19/Sep/2025 03:45:22] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+178.159.37.112 - - [19/Sep/2025 03:45:22] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+178.159.37.112 - - [19/Sep/2025 04:39:20] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+178.159.37.112 - - [19/Sep/2025 04:39:20] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+3.132.23.201 - - [19/Sep/2025 04:48:11] "[33mGET / HTTP/1.1[0m" 404 -
+3.132.23.201 - - [19/Sep/2025 04:49:02] "[33mGET / HTTP/1.1[0m" 404 -
+3.132.23.201 - - [19/Sep/2025 04:50:45] code 400, message Bad request version ('À\x14À')
+3.132.23.201 - - [19/Sep/2025 04:50:45] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03éw \x0f­É½Po\x8e±+\x87Û\x91¼¦Ø¶]Ñþ\x8bñ¾åÉÑ¾½U×\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+3.132.23.201 - - [19/Sep/2025 04:53:45] code 400, message Bad request syntax ('SSH-2.0-Go')
+3.132.23.201 - - [19/Sep/2025 04:53:45] "[35m[1mSSH-2.0-Go[0m" HTTPStatus.BAD_REQUEST -
+3.132.23.201 - - [19/Sep/2025 04:55:19] code 400, message Bad request version ('À\x14À')
+3.132.23.201 - - [19/Sep/2025 04:55:19] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03Â\x0eÕ©§p\x88á\x99+³í\x8c\x04\x0cvÖz\x14N\x09ô\x07¥v|\x13\x18\x9f ¤N\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+207.90.244.14 - - [19/Sep/2025 05:15:25] "[33mGET / HTTP/1.1[0m" 404 -
+207.90.244.14 - - [19/Sep/2025 05:15:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+198.235.24.199 - - [19/Sep/2025 05:16:47] "[33mGET / HTTP/1.0[0m" 404 -
+96.126.104.20 - - [19/Sep/2025 05:55:56] code 400, message Bad request version ('À\x13À')
+96.126.104.20 - - [19/Sep/2025 05:55:56] "[35m[1m\x16\x03\x01\x00ò\x01\x00\x00î\x03\x03GÉ\x96Ø\x8a¿J\x81#§\x12r_ý\x94ß\x0d¹\x87°J&Û°F=Oâ@\x04´\x87 Z\x10)õû\x9d\x9beË0mäùçÁ6b\x90§ÕU»\x01Sm\x85±£[&\x97(\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+96.126.104.20 - - [19/Sep/2025 05:55:57] "[33mGET /signin HTTP/1.1[0m" 404 -
+96.126.104.20 - - [19/Sep/2025 09:54:40] code 400, message Bad request version ('À\x13À')
+96.126.104.20 - - [19/Sep/2025 09:54:40] "[35m[1m\x16\x03\x01\x00ò\x01\x00\x00î\x03\x03¥\\û©r¦Èìøõ(®ÁÏ\x1b\x93KÔ\x19Í\x02\x18\x06\x9dwbÖÖv¦4° &,Zi½p{´)tÛ\x9a\x9bSÔÍ\x13\x88ÈùöçAwîÞcE\x10\x09­8\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+96.126.104.20 - - [19/Sep/2025 09:54:40] "[33mGET /signin HTTP/1.1[0m" 404 -
+167.94.138.189 - - [19/Sep/2025 09:59:12] code 400, message Bad request version ('À\x14À')
+167.94.138.189 - - [19/Sep/2025 09:59:12] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03Û¬\x18ýLÛÈÌêu¬ß\x9c\x9e\x0f\x14\x82kõ\x8fª\x16C\x13ê­qðY\x0bÜz \\Û"·\x83f}Zh;®u\x8b\x9c\x00©wv\x12g(»\\\x9a\x18¾0l\x88\x81¼ä\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+167.94.138.189 - - [19/Sep/2025 09:59:16] "[33mGET / HTTP/1.1[0m" 404 -
+167.94.138.189 - - [19/Sep/2025 09:59:20] "[33mGET / HTTP/1.1[0m" 404 -
+167.94.138.189 - - [19/Sep/2025 09:59:22] code 505, message Invalid HTTP version (2.0)
+167.94.138.189 - - [19/Sep/2025 09:59:22] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+167.94.138.189 - - [19/Sep/2025 09:59:32] code 505, message Invalid HTTP version (2.0)
+167.94.138.189 - - [19/Sep/2025 09:59:32] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+167.94.138.189 - - [19/Sep/2025 09:59:33] "[33mGET /login HTTP/1.1[0m" 404 -
+172.26.0.1 - - [19/Sep/2025 12:07:55] "POST /convert HTTP/1.1" 200 -
+172.26.0.1 - - [19/Sep/2025 12:17:06] "POST /convert HTTP/1.1" 200 -
+101.68.108.136 - - [19/Sep/2025 12:17:14] "GET /files/f300600e-023a-4715-b687-e4fab8fcab5e.docx HTTP/1.1" 200 -
+101.68.108.136 - - [19/Sep/2025 12:17:14] "[35m[1mGET /files/f300600e-023a-4715-b687-e4fab8fcab5e.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [19/Sep/2025 12:17:14] "[35m[1mGET /files/f300600e-023a-4715-b687-e4fab8fcab5e.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [19/Sep/2025 12:17:14] "[35m[1mGET /files/f300600e-023a-4715-b687-e4fab8fcab5e.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [19/Sep/2025 12:17:14] "[35m[1mGET /files/f300600e-023a-4715-b687-e4fab8fcab5e.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [19/Sep/2025 12:17:14] "[35m[1mGET /files/f300600e-023a-4715-b687-e4fab8fcab5e.docx HTTP/1.1[0m" 206 -
+101.68.108.136 - - [19/Sep/2025 12:17:14] "[35m[1mGET /files/f300600e-023a-4715-b687-e4fab8fcab5e.docx HTTP/1.1[0m" 206 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.26.0.2:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 631-697-675
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.26.0.2:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 623-117-533
